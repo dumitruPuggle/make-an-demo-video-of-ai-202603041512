@@ -59,5 +59,17 @@
   "assetPaths": [
     "snapshots/1772629969258-9beadb57/assets/asset-1.txt"
   ],
-  "savedAtIso": "2026-03-04T13:12:49.569Z"
+  "savedAtIso": "2026-03-04T13:13:20.463Z",
+  "scenes": [
+    {
+      "id": "a30f7f70-b889-463d-8cc3-e06e56932fc9",
+      "projectId": "github.com-dumitruPuggle-make-an-demo-video-of-ai-202603041512",
+      "name": "Scene 1",
+      "durationInFrames": 240,
+      "createdAt": 1772629970410,
+      "updatedAt": 1772629970410
+    }
+  ],
+  "selectedSceneId": "a30f7f70-b889-463d-8cc3-e06e56932fc9",
+  "updatedAt": "2026-03-04T13:13:20.463Z"
 }
